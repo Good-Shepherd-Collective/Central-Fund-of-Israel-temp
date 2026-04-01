@@ -1,0 +1,297 @@
+{
+  "url": "https://www.centralfundofisrael.org/faq",
+  "total_snapshots_available": 62,
+  "snapshots_downloaded": 19,
+  "date_range": "20200814 - 20260101",
+  "snapshots": [
+    {
+      "timestamp": "20200814011931",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "EZVXMSUW7VFWW2PRRJXSJTBE3EUBJ7GD",
+      "length": "69605",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20200814011931.html",
+      "wayback_url": "https://web.archive.org/web/20200814011931/https://www.centralfundofisrael.org/faq",
+      "sha256": "d816cff765f2159fb83869b2bf3cbfcd493910db34b2006df8ee72b2f868673b"
+    },
+    {
+      "timestamp": "20201201135856",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "IR7HTJ7XM6MBWFZU3X6X55ZILNOSTGHU",
+      "length": "37267",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20201201135856.html",
+      "wayback_url": "https://web.archive.org/web/20201201135856/https://www.centralfundofisrael.org/faq",
+      "sha256": "e1765d42a975832eb68d89ad52a08f1cff0774d4f5caec7334646a637d0ead2a"
+    },
+    {
+      "timestamp": "20210509184120",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "RREMPFJAZGI2SI536BO3NNHC2QFLKYPD",
+      "length": "82705",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20210509184120.html",
+      "wayback_url": "https://web.archive.org/web/20210509184120/https://www.centralfundofisrael.org/faq",
+      "sha256": "2738b79eae2adc0ef25cc6663206c40d3455fdb93296b9b41b57228bc25cab38"
+    },
+    {
+      "timestamp": "20211128044516",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "FRBIXDPXXMNZNN6THMGPAPXQZNNHQNPF",
+      "length": "80213",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20211128044516.html",
+      "wayback_url": "https://web.archive.org/web/20211128044516/https://www.centralfundofisrael.org/faq",
+      "sha256": "7fdf9b17baf18d856138f3372722595d2ff9aeb2c6a7d4f6b5a3541fd920d547"
+    },
+    {
+      "timestamp": "20220129210408",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "MCCSEMI4MHB2U7BUZUOZIHZFERMP5MBO",
+      "length": "80980",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20220129210408.html",
+      "wayback_url": "https://web.archive.org/web/20220129210408/https://www.centralfundofisrael.org/faq",
+      "sha256": "7f4b2dbfae1c5722c4e65c6fdbecfff45d345b9986c098f9d27b409d499765e4"
+    },
+    {
+      "timestamp": "20220505195247",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "EB6BF5SJXKK47VZDV352XFZCBWELBLJQ",
+      "length": "81175",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20220505195247.html",
+      "wayback_url": "https://web.archive.org/web/20220505195247/https://www.centralfundofisrael.org/faq",
+      "sha256": "a4710c1a5bc4c65b325c3e3acae1956b2b14baca7af86eb030a87bdb2e3da1f1"
+    },
+    {
+      "timestamp": "20220630063200",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "OU5ZCKQSFMFOYDJIFXK63O56PJEFB2ME",
+      "length": "69717",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20220630063200.html",
+      "wayback_url": "https://web.archive.org/web/20220630063200/https://www.centralfundofisrael.org/faq",
+      "sha256": "99d30d09883fa269ccf5500e44ce7adb58e6ebad4a55750f428c16af744140e2"
+    },
+    {
+      "timestamp": "20220815102703",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "HH5BLQB2UDNUTASGXUPYILA3MBPPZQUL",
+      "length": "112618",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20220815102703.html",
+      "wayback_url": "https://web.archive.org/web/20220815102703/https://www.centralfundofisrael.org/faq",
+      "sha256": "b6750ff77013c7d34700e00ec203ea310e958f64121e9bcf0fcf9e5f8b93236a"
+    },
+    {
+      "timestamp": "20221208083546",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "JFYPBVWRLMTML55RBU5TWD26IZAACFPG",
+      "length": "89692",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20221208083546.html",
+      "wayback_url": "https://web.archive.org/web/20221208083546/https://www.centralfundofisrael.org/faq",
+      "sha256": "cace311a3d07ca5e6628dcbaaf9fd8164771d8cfc1e7d109ec3a46f5c860bdf6"
+    },
+    {
+      "timestamp": "20230514070300",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "JAUHWBVUYAALXF6WEI2A6NMGDJZXTSLZ",
+      "length": "104427",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20230514070300.html",
+      "wayback_url": "https://web.archive.org/web/20230514070300/https://www.centralfundofisrael.org/faq",
+      "sha256": "fa9a16997f8cbc1f6a410faada08e7fadd379392f933a9e2c11bdf2bc28961a3"
+    },
+    {
+      "timestamp": "20230927104922",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "3K4JQHIA57JFRISLYYRW6ILBDOHYCSGW",
+      "length": "107372",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20230927104922.html",
+      "wayback_url": "https://web.archive.org/web/20230927104922/https://www.centralfundofisrael.org/faq",
+      "sha256": "9b114d88e4a6a3a0d9788ff3c0a46fdeb1dd4a0c94521aee202aee7e033c7f23"
+    },
+    {
+      "timestamp": "20231207123211",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "I2ABOMF3U7QI5MJZQ64ABB45NZJOUVQ3",
+      "length": "104885",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20231207123211.html",
+      "wayback_url": "https://web.archive.org/web/20231207123211/https://www.centralfundofisrael.org/faq",
+      "sha256": "40c41855ac828645b822ca37bb3b2a45cd3419f1987c5e739df947c52090ed23"
+    },
+    {
+      "timestamp": "20240331011617",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "C2KJRA2HRP6J3UR5Q4S6KT6U22YWXALA",
+      "length": "111529",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20240331011617.html",
+      "wayback_url": "https://web.archive.org/web/20240331011617/https://www.centralfundofisrael.org/faq",
+      "sha256": "1d3e62af7dd804c7fe8febe76654d2e10dcbb2b2b0564086bae2c9fa35ad5a44"
+    },
+    {
+      "timestamp": "20240513122802",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "MT6AWWER7F3NA2XK3UOOT3ONBFWVJEAL",
+      "length": "115310",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20240513122802.html",
+      "wayback_url": "https://web.archive.org/web/20240513122802/https://www.centralfundofisrael.org/faq",
+      "sha256": "09572bb5e095ce48cd7181b8c911f88f03e1a380f1f79e0c25097437803a0015"
+    },
+    {
+      "timestamp": "20240529212409",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "4SG24OAAKHHHS3BIO5WTETQJ2SPELKVN",
+      "length": "106571",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20240529212409.html",
+      "wayback_url": "https://web.archive.org/web/20240529212409/https://www.centralfundofisrael.org/faq",
+      "sha256": "785df7440ce575eb3ac770e907d12028c43cc8178f5412c33a954f12e2e065df"
+    },
+    {
+      "timestamp": "20240607035338",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "OD2KWRJW2QSKKC2H2PNNDC3UW3XF6Z5L",
+      "length": "106714",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20240607035338.html",
+      "wayback_url": "https://web.archive.org/web/20240607035338/https://www.centralfundofisrael.org/faq",
+      "sha256": "af6723336f90f8b3502e4a8073e41c6b2610ae66566c628b12ecd0fb390d47cf"
+    },
+    {
+      "timestamp": "20240616104523",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "SPFMPHFLH2PPGOVF6CWMO3CGMSPPCXES",
+      "length": "116002",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20240616104523.html",
+      "wayback_url": "https://web.archive.org/web/20240616104523/https://www.centralfundofisrael.org/faq",
+      "sha256": "537b771c71b986f7905a1b2d8fe2e712c9b439c3be50c6b9d50d357939f6b782"
+    },
+    {
+      "timestamp": "20240815080258",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "VPL2BPA3VP2GXUQJSLLOWHPQ7LILDIOM",
+      "length": "107044",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20240815080258.html",
+      "wayback_url": "https://web.archive.org/web/20240815080258/https://www.centralfundofisrael.org/faq",
+      "sha256": "563b56a08dfccf061638cabdb64e83d1e783cbaaaea96704cefc193d50f71aad"
+    },
+    {
+      "timestamp": "20241016001145",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "AHCKYXYOGG2CE7URAZMSUT5JZTA3UIOK",
+      "length": "107602",
+      "file_path": "targets/cfi/web/wayback/faq/snapshots/20241016001145.html",
+      "wayback_url": "https://web.archive.org/web/20241016001145/https://www.centralfundofisrael.org/faq",
+      "sha256": "8d96ec4ced15db0e0e33b7e85439dade64a4a2282b9b09bd8ec2d66398fde15d"
+    },
+    {
+      "timestamp": "20241116142712",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "NNYGTSOQ6NRCKVPX5KWYZXL4UVUOI3BA",
+      "length": "119079",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20241116142712/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20241201215021",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "LJEQAR4IEGPPTOM745OWJ6RLQZSO2SWE",
+      "length": "78331",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20241201215021/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20241228045056",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "MFOTNTPMTVGMNJ2M2LNBHAY5KIXUBZQF",
+      "length": "105335",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20241228045056/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20250118125109",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "KNX7UW3Q7XXBLO3UIZYXJSF5RR4ZHZRW",
+      "length": "104098",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20250118125109/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20250301114553",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "FPQSXBHPW22FWSOOIZQVTMN43JPQFVLY",
+      "length": "87955",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20250301114553/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20250414103458",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "4IFOFQZKMKI3UZ2VYFBH5T7I7QM7WTJV",
+      "length": "124336",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20250414103458/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20250501113514",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "SG4DWJLOTEPS7XO3PJ2RDOMX7GIPTX62",
+      "length": "92875",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20250501113514/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20250608104918",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "ZJJQHWKY2ISKA772245R3UJYBFALX5PT",
+      "length": "136379",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20250608104918/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20250801111514",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "NEI3QDFO5R3YFFWQ4EVK4RJIIBMT5SRD",
+      "length": "100754",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20250801111514/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20251117085546",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "IN5OU246MRZOYB4RWCEKEA5QVTWD2PX5",
+      "length": "162659",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20251117085546/https://www.centralfundofisrael.org/faq"
+    },
+    {
+      "timestamp": "20260101091642",
+      "original": "https://www.centralfundofisrael.org/faq",
+      "statuscode": "200",
+      "digest": "COBZZTLDG3XHQRJMNSMHXT5DK3E43F5T",
+      "length": "132707",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20260101091642/https://www.centralfundofisrael.org/faq"
+    }
+  ]
+}

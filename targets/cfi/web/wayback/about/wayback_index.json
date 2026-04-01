@@ -1,0 +1,207 @@
+{
+  "url": "https://www.centralfundofisrael.org/about-us",
+  "total_snapshots_available": 49,
+  "snapshots_downloaded": 19,
+  "date_range": "20201001 - 20250627",
+  "snapshots": [
+    {
+      "timestamp": "20201001204112",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "YURUTL56FNBAYTNPTBJJTJ2TIDP2RGVN",
+      "length": "34829",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20201001204112.html",
+      "wayback_url": "https://web.archive.org/web/20201001204112/https://www.centralfundofisrael.org/about-us",
+      "sha256": "025d96f80c06de44697b02340b8a675f94373d33e55b365b4d101b0cc7756c40"
+    },
+    {
+      "timestamp": "20210509203831",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "MRCUIBTC3ZFB4723YRKTX6RJ32ZFMMJP",
+      "length": "79729",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20210509203831.html",
+      "wayback_url": "https://web.archive.org/web/20210509203831/https://www.centralfundofisrael.org/about-us",
+      "sha256": "ee3be3689530d90452a7febfb634afad56d45c40eb02c297db5fb985137a2346"
+    },
+    {
+      "timestamp": "20211128062624",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "FGC47MU2UKQCKTCYURDC6JYURQ4Q6B3O",
+      "length": "77657",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20211128062624.html",
+      "wayback_url": "https://web.archive.org/web/20211128062624/https://www.centralfundofisrael.org/about-us",
+      "sha256": "be1996808aeab00deead075de7289ef908bdb8e68eb1930883193611fcf611c0"
+    },
+    {
+      "timestamp": "20221208104234",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "NNNYDPEQFX3XRIAQJCKF2MQQTBLOHHMD",
+      "length": "96383",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20221208104234.html",
+      "wayback_url": "https://web.archive.org/web/20221208104234/https://www.centralfundofisrael.org/about-us",
+      "sha256": "266deeb6ee880edd4d417db22c0eec3c0e6b41f8338a84b1d6fc0717b8acb119"
+    },
+    {
+      "timestamp": "20230321215402",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "FEVLHIPRKUXULU4XGVFTUJPGWOXSLBFH",
+      "length": "91420",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20230321215402.html",
+      "wayback_url": "https://web.archive.org/web/20230321215402/https://www.centralfundofisrael.org/about-us",
+      "sha256": "80eefd7c6ab3b17fbc808bdd7854b93d880739e729032f00a96ec51e15727863"
+    },
+    {
+      "timestamp": "20230518031238",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "RRTPUVKPLYCPNVILFTABXM3B27EZVU6S",
+      "length": "79998",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20230518031238.html",
+      "wayback_url": "https://web.archive.org/web/20230518031238/https://www.centralfundofisrael.org/about-us",
+      "sha256": "057dd54553c2f244fc9cd4309a64e45886aa562190b00f9a673d318cfe3da321"
+    },
+    {
+      "timestamp": "20230927131008",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "UAAKZY7HYIPAOJAOCBSBDQXCLNUCUENP",
+      "length": "112063",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20230927131008.html",
+      "wayback_url": "https://web.archive.org/web/20230927131008/https://www.centralfundofisrael.org/about-us",
+      "sha256": "f1df229d2732f42c82af503c50bd49ae37f066d99c22f20d51dc3fa543a03b91"
+    },
+    {
+      "timestamp": "20240225134421",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "5BY6QAVTETI2NC6TVDM2IHXB7I7E6EIM",
+      "length": "117349",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20240225134421.html",
+      "wayback_url": "https://web.archive.org/web/20240225134421/https://www.centralfundofisrael.org/about-us",
+      "sha256": "a8f7a5e56f47b962297aab4491b9ecfddb8f80b40efcc5654cdc5c7320b05b07"
+    },
+    {
+      "timestamp": "20240401183956",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "C4BR5UIGLVH2TZR2BYLHY6V6G6DVQ65J",
+      "length": "120446",
+      "file_path": null,
+      "wayback_url": "https://web.archive.org/web/20240401183956/https://www.centralfundofisrael.org/about-us"
+    },
+    {
+      "timestamp": "20240622172831",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "GCCUXRXONB7IPIQ4XEXUEGFJXCLQIPTR",
+      "length": "109121",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20240622172831.html",
+      "wayback_url": "https://web.archive.org/web/20240622172831/https://www.centralfundofisrael.org/about-us",
+      "sha256": "493fd82a02c74bb1d05001576f23f0747a38504562d48fe31827cc90e35f5690"
+    },
+    {
+      "timestamp": "20241007150920",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "OYDDBADAYULN6RIXUISLDH73GLBZYXTB",
+      "length": "126842",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20241007150920.html",
+      "wayback_url": "https://web.archive.org/web/20241007150920/https://www.centralfundofisrael.org/about-us",
+      "sha256": "7ea90b4ff5ff3e137a8c9858c12bdcfe84bd40d5993cfde40ebce6bf09998d14"
+    },
+    {
+      "timestamp": "20241117003558",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "QRYB4ECGKDR4T2WWNQYI6OYENJIDTDWQ",
+      "length": "125148",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20241117003558.html",
+      "wayback_url": "https://web.archive.org/web/20241117003558/https://www.centralfundofisrael.org/about-us",
+      "sha256": "b7759f38ba6816930947778c667cb64a4142b85b27faddf8fcf77f1f4ed71d4e"
+    },
+    {
+      "timestamp": "20241204102224",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "RXNEIZP22YHF4BJWQEON64MI47VJCDNS",
+      "length": "104872",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20241204102224.html",
+      "wayback_url": "https://web.archive.org/web/20241204102224/https://www.centralfundofisrael.org/about-us",
+      "sha256": "018b9054e45df461fd78fb2849ff135d0d0622415de150d5e89f83f6b6097c8f"
+    },
+    {
+      "timestamp": "20250103212147",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "MSL4EH34FIJND3VETPX7Z6YSPII2IAZE",
+      "length": "83054",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20250103212147.html",
+      "wayback_url": "https://web.archive.org/web/20250103212147/https://www.centralfundofisrael.org/about-us",
+      "sha256": "9b79b5306bf7079dc8c901062a7e733e568a426614b3641b1df25ab11f5d4c9e"
+    },
+    {
+      "timestamp": "20250209221802",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "QL5HO625NHSJXZNIO4QYLTG57PVTVX5V",
+      "length": "109044",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20250209221802.html",
+      "wayback_url": "https://web.archive.org/web/20250209221802/https://www.centralfundofisrael.org/about-us",
+      "sha256": "196a2940d74c64f864b67e02e385c56018e2634fb9ab93743b0eb9947b2a2294"
+    },
+    {
+      "timestamp": "20250401110535",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "VERQ2O74RGU2WFWMA5EBBOKYRBNNZIZH",
+      "length": "94800",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20250401110535.html",
+      "wayback_url": "https://web.archive.org/web/20250401110535/https://www.centralfundofisrael.org/about-us",
+      "sha256": "d37c5dab937c80ad8aa4ee1d3fb1b828f7c1751d277d367a23db17f323d1c1b6"
+    },
+    {
+      "timestamp": "20250427204024",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "YZ25LMWR2O3Z63A5MI5J6OI2PXXPA5CB",
+      "length": "117121",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20250427204024.html",
+      "wayback_url": "https://web.archive.org/web/20250427204024/https://www.centralfundofisrael.org/about-us",
+      "sha256": "4bf0aa94a64d60ede7d5c858464b60a5e020a082754b074824b77136e486f9f3"
+    },
+    {
+      "timestamp": "20250516212333",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "2EE4ODM32OUL5UUZTHXKKGVTGBA4ZGSF",
+      "length": "127025",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20250516212333.html",
+      "wayback_url": "https://web.archive.org/web/20250516212333/https://www.centralfundofisrael.org/about-us",
+      "sha256": "22d7529c34be3a968189d608385d68b32ed58a8e5bb4c840e97f22bc2d46dd55"
+    },
+    {
+      "timestamp": "20250611023930",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "2OBXLJMM6XIYDTJLVDTC3YLELOQAUE27",
+      "length": "101938",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20250611023930.html",
+      "wayback_url": "https://web.archive.org/web/20250611023930/https://www.centralfundofisrael.org/about-us",
+      "sha256": "7d63d9fd9a6987398b81429bd293630acfe2816c5f620d83c48e785616fb74c3"
+    },
+    {
+      "timestamp": "20250627183305",
+      "original": "https://www.centralfundofisrael.org/about-us",
+      "statuscode": "200",
+      "digest": "SZ4D65ERXJNGVD5D55OMMPP4AW5ZDC2V",
+      "length": "146103",
+      "file_path": "targets/cfi/web/wayback/about/snapshots/20250627183305.html",
+      "wayback_url": "https://web.archive.org/web/20250627183305/https://www.centralfundofisrael.org/about-us",
+      "sha256": "007246361d58f2cbca25a2dff43f978deef658f9ef71bb78d400a2714cf73444"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "org_name": "Central Fund of Israel",
+  "ein": "13-2992985",
+  "aliases": ["CFI", "Central Fund"],
+  "website_url": "https://www.centralfundofisrael.org",
+  "filing_type": "990",
+  "classification_509a": "509(a)(1)",
+  "state_incorporated": "NY",
+  "date_incorporated": null,
+  "stated_purposes": null,
+  "ny_charities_registered": true,
+  "ny_charities_number": "02-55-79",
+  "ny_charities_status": "active",
+  "ny_charities_registration_date": "04/01/1980",
+  "ny_charities_last_filing": "07/29/2025",
+  "ny_charities_county": "NASSAU",
+  "ny_sos_entity_id": null,
+  "ny_sos_status": "blocked_by_waf",
+  "filing_years_available": [2019, 2020, 2021, 2022, 2023, 2024, 2025],
+  "israeli_recipients_identified": [],
+  "address": {
+    "street": "429 Central Avenue",
+    "care_of": "Jmark Interiors Inc.",
+    "city": "Cedarhurst",
+    "state": "NY",
+    "zip": "11516"
+  },
+  "banking": {
+    "bank": "Dime Community Bank",
+    "routing": "021406667",
+    "account": "5000221843",
+    "swift": "BHNBUS3B"
+  },
+  "key_people": {
+    "president": "Jay Marcus",
+    "secretary": "Dr Linda Kalish Marcus",
+    "treasurer": "Jeff Most",
+    "directors": ["Yehuda Marcus", "Michael Fischberger", "Jacob Weichholz", "Mitchell Eichen"]
+  },
+  "family_relationships": "Jay and Linda Marcus are married. Yehuda Marcus is their son.",
+  "collection_date": "2026-04-01",
+  "collection_status": "in_progress",
+  "data_sources_completed": [
+    "irs_filings",
+    "ny_charities_bureau",
+    "ny_sos",
+    "website_crawl",
+    "solicitation_claims"
+  ],
+  "data_sources_pending": [
+    "wayback_archive",
+    "external_sources"
+  ],
+  "data_sources_not_applicable": [
+    "social_media"
+  ],
+  "notes": "Track B entity (990 filer). Schedule F lists individual grant amounts but not recipient names in XML — names only in PDF attached listing. 2024 foreign grants not parsed by IRS-DB. NY SOS: entity NOT FOUND in Division of Corporations database despite Charities Bureau registration since 1980 — unusual for a $96M+ nonprofit. No social media accounts identified for CFI."
+}

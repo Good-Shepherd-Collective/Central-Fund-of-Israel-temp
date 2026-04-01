@@ -1,0 +1,21 @@
+{
+  "capture_id": "fc85c5b8-5277-4760-9342-0ca85f7e22aa",
+  "url": "https://www.centralfundofisrael.org/who-we-help",
+  "timestamp_utc": "2026-04-01T13:44:30.631467+00:00",
+  "operator": "automated-pipeline",
+  "tool": "playwright/1.0.0",
+  "tool_version": "1.0.0",
+  "proxy_ip": "socks5://127.0.0.1:9050",
+  "sha256_raw": "bbf2d994b1116933759bee0a3f89f8259fd3c959380f9f0bd1adb7f8a2d43bd1",
+  "sha256_rendered": "bbf2d994b1116933759bee0a3f89f8259fd3c959380f9f0bd1adb7f8a2d43bd1",
+  "wayback_url": "https://web.archive.org/web/20260401134408/https://www.centralfundofisrael.org/who-we-help",
+  "ots_path": "targets/cfi/web/ots/who-we-help_20260401_134405.ots",
+  "warc_path": "targets/cfi/web/captures/who-we-help_20260401_134405/who-we-help.warc.gz",
+  "screenshot_path": "targets/cfi/web/captures/who-we-help_20260401_134405/screenshot.png",
+  "page_title": "Who We Help | The Central Fund of Israel",
+  "r2_urls": {
+    "who-we-help.warc.gz": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/who-we-help_20260401_134405/who-we-help.warc.gz",
+    "rendered.html": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/who-we-help_20260401_134405/rendered.html",
+    "screenshot.png": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/who-we-help_20260401_134405/screenshot.png"
+  }
+}

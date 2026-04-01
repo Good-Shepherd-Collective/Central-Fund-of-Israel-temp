@@ -1,0 +1,45 @@
+{
+  "source": "ny_secretary_of_state",
+  "source_url": "https://apps.dos.ny.gov/publicInquiry/",
+  "org_name_searched": "Central Fund of Israel",
+  "scrape_timestamp": "2026-04-01T14:37:00+00:00",
+  "method": "playwright_mcp_headed_browser",
+  "status": "not_found",
+  "searches_performed": [
+    {
+      "query": "Central Fund of Israel",
+      "search_type": "EntityName",
+      "search_functionality": "Contains",
+      "entity_list": ["Corporation"],
+      "results_count": 0,
+      "result": "No business entities were found"
+    },
+    {
+      "query": "Central Fund",
+      "search_type": "EntityName",
+      "search_functionality": "Contains",
+      "entity_list": ["Corporation"],
+      "results_count": 74,
+      "result": "74 results, none matching Central Fund of Israel"
+    },
+    {
+      "query": "Central Fund",
+      "search_type": "EntityName",
+      "search_functionality": "BeginsWith",
+      "entity_list": ["Corporation"],
+      "results_count": 4,
+      "result": "4 results: CENTRAL FUNDING COMPANY INC. OF NEW YORK (1333234, Inactive), CENTRAL FUNDING CORPORATION (32376, Active, Foreign), CENTRAL FUNDING SOURCE CORP. (7169869, Active), CENTRAL FUNDING SOURCE INC. (2370296, Inactive). None are CFI."
+    }
+  ],
+  "entity_id": null,
+  "entity_type": null,
+  "entity_status": null,
+  "jurisdiction": null,
+  "formation_date": null,
+  "stated_purposes": null,
+  "registered_agent": null,
+  "office_address": null,
+  "detail_url": null,
+  "screenshot": "ny_sos_search_results.png",
+  "finding": "Central Fund of Israel does not appear in the NY DOS Division of Corporations database. CFI is registered with the NY Charities Bureau (reg# 02-55-79, active since 04/01/1980) but has no corresponding DOS corporation filing. This is unusual for a 501(c)(3) nonprofit processing $96M+ annually in New York. Possible explanations: (1) incorporated in another state, (2) filed under a different name, (3) operating as an unincorporated association, (4) incorporated pre-digital-records (1979) and not migrated to the online database. Further investigation: check Nassau County Clerk records or request certificate of incorporation from Charities Bureau."
+}

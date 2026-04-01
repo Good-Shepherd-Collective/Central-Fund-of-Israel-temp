@@ -1,0 +1,21 @@
+{
+  "capture_id": "2bedfd78-e598-408d-8483-becc5b6b5190",
+  "url": "https://www.centralfundofisrael.org",
+  "timestamp_utc": "2026-04-01T13:39:06.046637+00:00",
+  "operator": "automated-pipeline",
+  "tool": "playwright/1.0.0",
+  "tool_version": "1.0.0",
+  "proxy_ip": "socks5://127.0.0.1:9050",
+  "sha256_raw": "cec75afd8851630bdf93915cbd9c73f8517e8932abe183749a82af5e76b04d03",
+  "sha256_rendered": "cec75afd8851630bdf93915cbd9c73f8517e8932abe183749a82af5e76b04d03",
+  "wayback_url": "https://web.archive.org/web/20260401133631/https://www.centralfundofisrael.org/",
+  "ots_path": "targets/cfi/web/ots/index_20260401_133850.ots",
+  "warc_path": "targets/cfi/web/captures/index_20260401_133850/index.warc.gz",
+  "screenshot_path": "targets/cfi/web/captures/index_20260401_133850/screenshot.png",
+  "page_title": "CFI | Central Fund of Israel | United States | Non-profit charity",
+  "r2_urls": {
+    "index.warc.gz": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/index_20260401_133850/index.warc.gz",
+    "rendered.html": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/index_20260401_133850/rendered.html",
+    "screenshot.png": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/index_20260401_133850/screenshot.png"
+  }
+}

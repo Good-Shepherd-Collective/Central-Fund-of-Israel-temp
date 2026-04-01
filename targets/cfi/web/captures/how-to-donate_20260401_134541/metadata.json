@@ -1,0 +1,21 @@
+{
+  "capture_id": "cf0e1fcc-66ef-4966-86d4-be802888acbe",
+  "url": "https://www.centralfundofisrael.org/how-to-donate",
+  "timestamp_utc": "2026-04-01T13:46:07.066718+00:00",
+  "operator": "automated-pipeline",
+  "tool": "playwright/1.0.0",
+  "tool_version": "1.0.0",
+  "proxy_ip": "socks5://127.0.0.1:9050",
+  "sha256_raw": "296b10b3cce1e4fdaf4c055e57889d826efa03498a5916b685c8f5b89941c634",
+  "sha256_rendered": "296b10b3cce1e4fdaf4c055e57889d826efa03498a5916b685c8f5b89941c634",
+  "wayback_url": "https://web.archive.org/web/20260401134544/https://www.centralfundofisrael.org/how-to-donate",
+  "ots_path": "targets/cfi/web/ots/how-to-donate_20260401_134541.ots",
+  "warc_path": "targets/cfi/web/captures/how-to-donate_20260401_134541/how-to-donate.warc.gz",
+  "screenshot_path": "targets/cfi/web/captures/how-to-donate_20260401_134541/screenshot.png",
+  "page_title": "How to Donate | The Central Fund of Israel",
+  "r2_urls": {
+    "rendered.html": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/how-to-donate_20260401_134541/rendered.html",
+    "screenshot.png": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/how-to-donate_20260401_134541/screenshot.png",
+    "how-to-donate.warc.gz": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/how-to-donate_20260401_134541/how-to-donate.warc.gz"
+  }
+}

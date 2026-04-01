@@ -1,0 +1,21 @@
+{
+  "capture_id": "90848aa5-1892-464e-b7c7-043eb62755cc",
+  "url": "https://www.centralfundofisrael.org/faq",
+  "timestamp_utc": "2026-04-01T13:47:01.345302+00:00",
+  "operator": "automated-pipeline",
+  "tool": "playwright/1.0.0",
+  "tool_version": "1.0.0",
+  "proxy_ip": "socks5://127.0.0.1:9050",
+  "sha256_raw": "d7e86b4b6338af803a2355e52e513be80f434e2c741f802104381c218dd5cf31",
+  "sha256_rendered": "d7e86b4b6338af803a2355e52e513be80f434e2c741f802104381c218dd5cf31",
+  "wayback_url": "",
+  "ots_path": "targets/cfi/web/ots/faq_20260401_134626.ots",
+  "warc_path": "targets/cfi/web/captures/faq_20260401_134626/faq.warc.gz",
+  "screenshot_path": "targets/cfi/web/captures/faq_20260401_134626/screenshot.png",
+  "page_title": "FAQ | The Central Fund of Israel",
+  "r2_urls": {
+    "rendered.html": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/faq_20260401_134626/rendered.html",
+    "screenshot.png": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/faq_20260401_134626/screenshot.png",
+    "faq.warc.gz": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/faq_20260401_134626/faq.warc.gz"
+  }
+}

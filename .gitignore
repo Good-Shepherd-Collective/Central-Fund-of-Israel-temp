@@ -5,3 +5,9 @@ __pycache__/
 *.db
 *.sqlite
 *.sqlite3
+.playwright-mcp/
+logs/
+
+# Large binary evidence files are in R2, not git
+targets/*/web/captures/*/screenshot.png
+targets/*/web/captures/*/*.warc.gz

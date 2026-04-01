@@ -1,0 +1,106 @@
+{
+  "source": "ny_charities_bureau",
+  "source_url": "https://charities-search.ag.ny.gov/RegistrySearch",
+  "org_name_searched": "Central Fund of Israel",
+  "scrape_timestamp": "2026-04-01T11:34:09.146575+00:00",
+  "status": "success",
+  "match_count": 1,
+  "matches": [
+    {
+      "orgName": "CENTRAL FUND OF ISRAEL",
+      "city": "Cedarhust",
+      "guid": "{60A05498-0000-CA16-9938-8BCEC4463F77}",
+      "ein": "132992985",
+      "state": "NY",
+      "regType": "NFP",
+      "orgID": "02-55-79"
+    }
+  ],
+  "registration_number": "02-55-79",
+  "registration_status": "active",
+  "registration_date": "04/01/1980",
+  "last_filing_date": "07/29/2025",
+  "registered_agent": null,
+  "ein": "132992985",
+  "org_name_official": "CENTRAL FUND OF ISRAEL",
+  "address": "461 Central Avenue",
+  "city": "Cedarhust",
+  "state": "NY",
+  "zip": "11516-2008",
+  "county": "NASSAU",
+  "website": "WWW.CENTRALFUNDOFISRAEL.ORG",
+  "registration_type": "NFP",
+  "annual_filings": [
+    {
+      "title": "Annual Filing for Charitable Organizations",
+      "fiscal_year_end": "01/31/2022",
+      "received": "07/29/2025",
+      "guid": "{E0CA5498-0000-CB1D-81C5-8B760FB5B91E}",
+      "can_download": true,
+      "download_url": "https://charities-search-api.ag.ny.gov/api/FileNet/RegistryDocument?guid=%7BE0CA5498-0000-CB1D-81C5-8B760FB5B91E%7D"
+    },
+    {
+      "title": "Annual Filing for Charitable Organizations",
+      "fiscal_year_end": "01/31/2023",
+      "received": "05/07/2025",
+      "guid": "{4001AD96-0000-CA30-8AAD-514104658712}",
+      "can_download": true,
+      "download_url": "https://charities-search-api.ag.ny.gov/api/FileNet/RegistryDocument?guid=%7B4001AD96-0000-CA30-8AAD-514104658712%7D"
+    },
+    {
+      "title": "Annual Filing for Charitable Organizations",
+      "fiscal_year_end": "01/31/2022",
+      "received": "06/24/2023",
+      "guid": "{90DBEC88-0000-CA30-88A5-E7EBC92844D2}",
+      "can_download": true,
+      "download_url": "https://charities-search-api.ag.ny.gov/api/FileNet/RegistryDocument?guid=%7B90DBEC88-0000-CA30-88A5-E7EBC92844D2%7D"
+    },
+    {
+      "title": "Annual Filing for Charitable Organizations",
+      "fiscal_year_end": "01/31/2021",
+      "received": "12/20/2021",
+      "guid": "{60E5DA83-0000-C134-B563-CC14DA062CD8}",
+      "can_download": true,
+      "download_url": "https://charities-search-api.ag.ny.gov/api/FileNet/RegistryDocument?guid=%7B60E5DA83-0000-C134-B563-CC14DA062CD8%7D"
+    }
+  ],
+  "registration_documents": [
+    {
+      "title": "Registration Statement for Charitable Organizations",
+      "received": "04/01/1980",
+      "guid": "{D1A7D8D5-2D85-4617-8D0E-86C3A1853210}",
+      "can_download": false
+    }
+  ],
+  "other_documents": [
+    {
+      "title": "Accountant Report",
+      "received": "05/07/2025",
+      "guid": "{E0FFAC96-0000-C21A-905D-2462033D1C5E}",
+      "can_download": true,
+      "download_url": "https://charities-search-api.ag.ny.gov/api/FileNet/RegistryDocument?guid=%7BE0FFAC96-0000-C21A-905D-2462033D1C5E%7D"
+    },
+    {
+      "title": "IRS Annual Report",
+      "received": "05/07/2025",
+      "guid": "{10FFAC96-0000-C01E-A4D7-E337B0A04181}",
+      "can_download": true,
+      "download_url": "https://charities-search-api.ag.ny.gov/api/FileNet/RegistryDocument?guid=%7B10FFAC96-0000-C01E-A4D7-E337B0A04181%7D"
+    },
+    {
+      "title": "IRS Annual Report",
+      "received": "06/24/2023",
+      "guid": "{60E0EC88-0000-C868-BAE1-D0BB684913CC}",
+      "can_download": true,
+      "download_url": "https://charities-search-api.ag.ny.gov/api/FileNet/RegistryDocument?guid=%7B60E0EC88-0000-C868-BAE1-D0BB684913CC%7D"
+    },
+    {
+      "title": "Accountant Report",
+      "received": "06/24/2023",
+      "guid": "{F0DEEC88-0000-C319-AA6F-1D4AF5D8A645}",
+      "can_download": true,
+      "download_url": "https://charities-search-api.ag.ny.gov/api/FileNet/RegistryDocument?guid=%7BF0DEEC88-0000-C319-AA6F-1D4AF5D8A645%7D"
+    }
+  ],
+  "detail_url": "https://charities-search.ag.ny.gov/RegistrySearch/02-55-79"
+}

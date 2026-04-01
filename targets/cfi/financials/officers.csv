@@ -1,0 +1,48 @@
+tax_year,person_name,title,hours_per_week,compensation,is_officer,is_director,is_key_employee
+2019,DR LINDA KALISH MARCUS,SECRETARY,10.00,0.00,True,True,False
+2019,JAY MARCUS,PRESIDENT,40.00,95000.00,True,True,False
+2019,JEFF MOST,TREASURER,3.00,0.00,True,True,False
+2019,MICHAEL FISCHBERGER,DIRECTOR,,0.00,False,True,False
+2019,MITCHELL EICHEN,DIRECTOR,,0.00,False,True,False
+2020,DR LINDA KALISH MARCU,SECRETARY,10.00,0.00,True,True,False
+2020,JACOB WEICHHOLZ,DIRECTOR,0.10,0.00,False,True,False
+2020,JAY MARCUS,PRESIDENT,40.00,95000.00,True,True,False
+2020,JEFF MOST,TREASURER,3.00,0.00,True,True,False
+2020,MICHAEL FISCHBERGER,DIRECTOR,0.10,0.00,False,True,False
+2020,MITCHELL EICHEN,DIRECTOR,0.10,0.00,False,True,False
+2020,YEHUDA MARCUS,DIRECTOR,0.10,0.00,False,True,False
+2021,DR LINDA KALISH MARCUS,SECRETARY,15.00,0.00,True,True,False
+2021,JACOB WEICHHOLZ,DIRECTOR,0.10,0.00,False,True,False
+2021,JAY MARCUS,PRESIDENT,40.00,95000.00,True,True,False
+2021,JEFF MOST,TREASURER,2.00,0.00,True,True,False
+2021,MICHAEL FISCHBERGER,DIRECTOR,0.10,0.00,False,True,False
+2021,MITCHELL EICHEN,DIRECTOR,0.10,0.00,False,True,False
+2021,YEHUDA MARCUS,DIRECTOR,0.10,0.00,False,True,False
+2022,Dr Linda Kalish Marcus,Secretary,18.00,0.00,True,True,False
+2022,Jacob Weichholz,Director,0.10,0.00,False,True,False
+2022,Jay Marcus,President,40.00,95000.00,True,True,False
+2022,Jeff Most,Treasurer,1.50,0.00,True,True,False
+2022,Michael Fischberger,Director,0.10,0.00,False,True,False
+2022,Mitchell Eichen,Director,0.10,0.00,False,True,False
+2022,Yehuda Marcus,Director,0.10,0.00,False,True,False
+2023,Dr Linda Kalish Marcus,Secretary,18.00,0.00,True,True,False
+2023,Jacob Weichholz,Director,0.10,0.00,False,True,False
+2023,Jay Marcus,President,40.00,115000.00,True,True,False
+2023,Jeff Most,Treasurer,1.50,0.00,True,True,False
+2023,Michael Fischberger,Director,0.10,0.00,False,True,False
+2023,Mitchell Eichen,Director,0.10,0.00,False,True,False
+2023,Yehuda Marcus,Director,0.10,0.00,False,True,False
+2024,Dr Linda Kalish Marcus,Secretary,18.00,0.00,True,True,False
+2024,Jacob Weichholz,Director,0.10,0.00,False,True,False
+2024,Jay Marcus,President,40.00,150000.00,True,True,False
+2024,Jeff Most,Treasurer,1.50,0.00,True,True,False
+2024,Michael Fischberger,Director,0.10,0.00,False,True,False
+2024,Mitchell Eichen,Director,0.10,0.00,False,True,False
+2024,Yehuda Marcus,Director,0.10,0.00,False,True,False
+2025,Dr Linda Kalish Marcus,Secretary,25.00,0.00,True,True,False
+2025,Jacob Weichholz,Director,0.10,0.00,False,True,False
+2025,Jay Marcus,President,40.00,120000.00,True,True,False
+2025,Jeff Most,Treasurer,1.50,0.00,True,True,False
+2025,Michael Fischberger,Director,0.10,0.00,False,True,False
+2025,Mitchell Eichen,Director,0.10,0.00,False,True,False
+2025,Yehuda Marcus,Director,5.00,0.00,False,True,False

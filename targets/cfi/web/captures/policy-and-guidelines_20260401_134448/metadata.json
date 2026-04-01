@@ -1,0 +1,21 @@
+{
+  "capture_id": "2ba7fc4a-eb42-42b4-a353-dc2eead85ecd",
+  "url": "https://www.centralfundofisrael.org/policy-and-guidelines",
+  "timestamp_utc": "2026-04-01T13:45:23.871685+00:00",
+  "operator": "automated-pipeline",
+  "tool": "playwright/1.0.0",
+  "tool_version": "1.0.0",
+  "proxy_ip": "socks5://127.0.0.1:9050",
+  "sha256_raw": "070e4e55f27c19b024748271114bb1738c9523f440a9481ba244f47b9507ce32",
+  "sha256_rendered": "070e4e55f27c19b024748271114bb1738c9523f440a9481ba244f47b9507ce32",
+  "wayback_url": "",
+  "ots_path": "targets/cfi/web/ots/policy-and-guidelines_20260401_134448.ots",
+  "warc_path": "targets/cfi/web/captures/policy-and-guidelines_20260401_134448/policy-and-guidelines.warc.gz",
+  "screenshot_path": "targets/cfi/web/captures/policy-and-guidelines_20260401_134448/screenshot.png",
+  "page_title": "\u200bPolicy and Guidlines | The Central Fund of Israel",
+  "r2_urls": {
+    "rendered.html": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/policy-and-guidelines_20260401_134448/rendered.html",
+    "screenshot.png": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/policy-and-guidelines_20260401_134448/screenshot.png",
+    "policy-and-guidelines.warc.gz": "https://776b8886337715df1ca6c91c818bb984.r2.cloudflarestorage.com/ag-complaint-evidence/cfi/web/policy-and-guidelines_20260401_134448/policy-and-guidelines.warc.gz"
+  }
+}
