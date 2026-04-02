@@ -145,6 +145,13 @@ All specs live in `~/Desktop/repos/data/ag-complaint-pipeline/specs/`:
 - `database-schema.md` — Schema design rationale + lessons learned
 - `external-sources-todo.md` — Design outline for external sources collection
 
+## Shared Dependencies
+- Forensic capture module: canonical implementation in `ag-complaint-pipeline/pipeline/shared/`
+- Install: `pip install -e ~/Desktop/repos/data/ag-complaint-pipeline`
+- Import: `from pipeline.shared.forensic_capture import capture_page`
+- CFI-specific config (`scrapers/config.py`) subclasses the shared `CaptureConfig` with CFI defaults (entity_slug="cfi", output_dir=targets/cfi/web, upload_to_r2=True, R2Config auto-loading)
+- CFI `scrapers/forensic_capture.py` re-exports shared functions and adds `_insert_documents` for Neon document table writes
+
 ## Conventions
 - Follow datahub playbook at `~/Desktop/repos/data/datahub/docs/playbook.md`
 - Conventional commits: `type(scope): description`

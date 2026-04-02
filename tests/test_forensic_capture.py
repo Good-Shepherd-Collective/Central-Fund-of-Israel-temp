@@ -87,7 +87,7 @@ def test_create_ots_proof(tmp_path):
     assert ots_path.stat().st_size > 0
 
 
-@patch("scrapers.forensic_capture.requests.get")
+@patch("pipeline.shared.forensic_capture.requests.get")
 def test_submit_wayback(mock_get):
     """Wayback submission should return an archived URL."""
     from scrapers.forensic_capture import submit_to_wayback
@@ -103,7 +103,7 @@ def test_submit_wayback(mock_get):
     assert "web.archive.org" in result
 
 
-@patch("scrapers.forensic_capture.requests.get")
+@patch("pipeline.shared.forensic_capture.requests.get")
 def test_submit_wayback_failure(mock_get):
     """Wayback failure should return None, not raise."""
     from scrapers.forensic_capture import submit_to_wayback
