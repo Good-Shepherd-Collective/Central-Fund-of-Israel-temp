@@ -101,6 +101,13 @@ Central-Fund-of-Israel/
 │   ├── test_forensic_capture.py   # 8 tests
 │   ├── test_website_crawl.py      # 10 tests
 │   └── test_r2_upload.py          # 3 tests
+├── funding-connections/
+│   ├── tracker.md                 # Master tracker for all org research
+│   ├── im-tirtzu/captures/        # Forensic capture of donation page
+│   ├── honenu/captures/           # Forensic capture of donation page
+│   ├── kohelet/captures/          # Forensic capture of donation page
+│   ├── nachala/captures/          # Forensic capture of donation page
+│   └── shurat-hadin/captures/     # Forensic capture of donation page
 ├── targets/cfi/
 │   ├── metadata.json              # Entity profile + collection status
 │   ├── financials/                # CSV exports from Neon
@@ -115,8 +122,8 @@ Central-Fund-of-Israel/
 │   └── external/                  # Media, legal, watchdog (pending)
 ├── docs/plans/                    # Implementation plans
 ├── logs/                          # OTS upgrade logs
-├── cfi_organizations.csv          # 54 orgs listed on CFI website
-├── cfi_orgs_with_ids.csv          # Same with Israeli registry IDs
+├── funding-connections.md         # Research brief for funding connection work
+├── cfi_orgs_with_ids.csv          # 54 orgs listed on CFI website (with registry IDs, Hebrew names, West Bank flag)
 └── CFI-Facts.md                   # Website facts + banking details
 ```
 
@@ -131,8 +138,46 @@ Central-Fund-of-Israel/
 | Solicitation claims | Complete | 20 claims from 3 pages |
 | Wayback historical | Partial | 38 snapshots (FAQ + About); Who We Help pending |
 | Findings | Complete | 8 findings (3 critical) |
+| Funding connections | Partial | 5 Grade A (forensic capture), 9 Grade C/D (media only) |
 | Social media | N/A | No accounts found |
 | External sources | Pending | Spec TODO at ag-complaint-pipeline/specs/external-sources-todo.md |
+
+## Funding Connections (Israeli Recipients)
+
+Tracker: `funding-connections/tracker.md`. Research brief: `funding-connections.md`.
+
+### Grade A — Fiscal sponsor (primary-source donation pages, forensically captured)
+| Org | Registry | Evidence | On CFI website? |
+|-----|----------|----------|-----------------|
+| Im Tirtzu | 580471662 | Donation page with CFI bank details + EIN | No |
+| Honenu | 580386571 | "Make checks out to Central Fund of Israel" + EIN | No |
+| Kohelet Policy Forum | 580553915 | CFI bank account with earmark notation | No |
+| Nachala Movement | 580554459 | Checks to Jay Marcus at CFI, earmarked | No |
+| Shurat HaDin | 580402469 | CFI earmark code SHD834 + EIN | Yes ("Education") |
+
+### Grade C/D — Media evidence only (9 orgs)
+Ateret Cohanim, Bet Knesset Kfar Tapuach, Elad/Ir David, Gush Etzion Foundation, Israel Land Fund, Lehava, Od Yosef Chai Yeshiva, Regavim, Women in Green
+
+### Not CFI (different fiscal sponsor or own 501c3)
+- Ad Kan → America Gives, Inc. (EIN 26-3383926)
+- Elad/Ir David → own US 501(c)(3)
+- Ateret Cohanim → own US 501(c)(3) (American Friends of Ateret Cohanim)
+- TPS/Tazpit → P.E.F. Israel Endowment Funds
+
+### Priority targets for webscraping & content
+1. **Im Tirtzu** — Political warfare, Grade A CFI evidence
+2. **Honenu** — Legal defense for convicted attackers, Grade A CFI evidence
+3. **Nachala Movement** — Illegal outpost construction (Daniella Weiss), Grade A, names Jay Marcus
+4. **Regavim** — Demolition advocacy, on CFI website, already profiled
+5. **Shurat HaDin** — Legal warfare ("Israel Law Center"), dedicated CFI earmark SHD834, $8.5M revenue
+
+### CFI Banking Details (from donation pages)
+- **Bank:** Dime Community Bank, 898 Veterans Memorial Highway, Hauppauge NY 11788
+- **Account Title:** CENTRAL FUND OF ISRAEL
+- **Account:** 5000221843, Routing: 021406667
+- **Address:** 461 Central Ave, Cedarhurst NY 11516 (also PO Box 491, Woodmere NY 11598)
+- **SWIFT:** BHNBUS3B (international wires)
+- **Wire minimum:** $1,000 (per Im Tirtzu page)
 
 ## Track B Caveat
 CFI files Form 990 (public charity), not 990-PF. Schedule F provides individual grant **amounts** but NOT recipient names in the XML — names are only in the PDF "attached listing." To identify which Israeli orgs receive funds: FOIA request or PDF download + OCR. Track via `foia_requests` table.

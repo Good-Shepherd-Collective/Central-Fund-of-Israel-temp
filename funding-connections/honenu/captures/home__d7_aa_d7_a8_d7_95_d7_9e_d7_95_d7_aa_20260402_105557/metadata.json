@@ -1,0 +1,18 @@
+{
+  "capture_id": "128af33a-861c-46b3-8823-fa5dfdeb5963",
+  "url": "https://www.honenu.org.il/home/%d7%aa%d7%a8%d7%95%d7%9e%d7%95%d7%aa/",
+  "timestamp_utc": "2026-04-02T10:56:29.606066+00:00",
+  "operator": "automated-pipeline",
+  "tool": "playwright/1.0.0",
+  "tool_version": "1.0.0",
+  "proxy_ip": "",
+  "sha256_raw": "929cad77ebc899ea0c8129c2212a965b84aa4be73821be3ae192422f69d523b4",
+  "sha256_rendered": "929cad77ebc899ea0c8129c2212a965b84aa4be73821be3ae192422f69d523b4",
+  "sha256_screenshot": "bc864aded3d139640989fb73ad95d3fa22ffdb7a20f3a243f4bca8b1c41f6e85",
+  "raw_captured": false,
+  "wayback_url": "https://web.archive.org/web/20260402105604/https://www.honenu.org.il/home/%D7%AA%D7%A8%D7%95%D7%9E%D7%95%D7%AA/",
+  "ots_path": "funding-connections/honenu/ots/home__d7_aa_d7_a8_d7_95_d7_9e_d7_95_d7_aa_20260402_105557.ots",
+  "warc_path": "funding-connections/honenu/captures/home__d7_aa_d7_a8_d7_95_d7_9e_d7_95_d7_aa_20260402_105557/home__d7_aa_d7_a8_d7_95_d7_9e_d7_95_d7_aa.warc.gz",
+  "screenshot_path": "funding-connections/honenu/captures/home__d7_aa_d7_a8_d7_95_d7_9e_d7_95_d7_aa_20260402_105557/screenshot.png",
+  "page_title": "\u05ea\u05e8\u05d5\u05de\u05d5\u05ea \u2013 \u05d7\u05d5\u05e0\u05e0\u05d5"
+}

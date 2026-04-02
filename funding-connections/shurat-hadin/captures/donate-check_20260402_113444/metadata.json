@@ -1,0 +1,18 @@
+{
+  "capture_id": "70983884-0674-408d-8b88-a5baf28929d6",
+  "url": "https://israellawcenter.org/donate-check/",
+  "timestamp_utc": "2026-04-02T11:35:17.143901+00:00",
+  "operator": "automated-pipeline",
+  "tool": "playwright/1.0.0",
+  "tool_version": "1.0.0",
+  "proxy_ip": "",
+  "sha256_raw": "cec080a18668dacbcbb5e48f0f8f412e7bfe06407126279153ff75d8b2f92407",
+  "sha256_rendered": "cec080a18668dacbcbb5e48f0f8f412e7bfe06407126279153ff75d8b2f92407",
+  "sha256_screenshot": "1988d2bb958da5b5bada93c43530fb3af254ea64dee1166857933a7e84ab563f",
+  "raw_captured": false,
+  "wayback_url": "https://web.archive.org/web/20260402113449/https://israellawcenter.org/donate-check/",
+  "ots_path": "funding-connections/shurat-hadin/ots/donate-check_20260402_113444.ots",
+  "warc_path": "funding-connections/shurat-hadin/captures/donate-check_20260402_113444/donate-check.warc.gz",
+  "screenshot_path": "funding-connections/shurat-hadin/captures/donate-check_20260402_113444/screenshot.png",
+  "page_title": "Donate by Check \u2013 Choose Your Country \u2013 Shurat Hadin \u2013 Israel Law Center | \u05e9\u05d5\u05e8\u05ea \u05d4\u05d3\u05d9\u05df"
+}
